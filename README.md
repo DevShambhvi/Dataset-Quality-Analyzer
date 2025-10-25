@@ -7,8 +7,8 @@
 <br>**Interactive Web Interface:** Streamlit-based frontend for easy dataset uploads and analysis*
 <br>***Comprehensive Metrics:** Evaluates missing data, outliers, skewness, correlation, and more*
 <br>***Actionable Recommendations:** Provides specific preprocessing suggestions based on detected issues*
-<br>***Export Functionality:** Download detailed quality reports in CSV format*<img width="1786" height="738" alt="Screenshot 2025-10-18 201215" src="https://github.com/user-attachments/assets/c911f43a-b0e1-4fb5-847b-48918b2e6d5b" />
+<img width="1786" height="738" alt="Screenshot 2025-10-18 201215" src="https://github.com/user-attachments/assets/e15546f0-40a4-4397-80dc-78eed8f12ec5" />
+<img width="1818" height="557" alt="Screenshot 2025-10-18 201243" src="https://github.com/user-attachments/assets/79535729-14c9-4165-b10e-85da04f8fcf5" />
+<img width="1711" height="750" alt="Screenshot 2025-10-18 201302" src="https://github.com/user-attachments/assets/1064a6a0-12d1-4fe9-a0c7-f3f883c83428" />
 
-<img width="1818" height="557" alt="Screenshot 2025-10-18 201243" src="https://github.com/user-attachments/assets/0ac9b01b-fce5-4f40-9d4a-4c0caa8b96e3" />
-<img width="1711" height="750" alt="Screenshot 2025-10-18 201302" src="https://github.com/user-attachments/assets/dece2576-f426-4be0-9e87-278157336c20" />
 
